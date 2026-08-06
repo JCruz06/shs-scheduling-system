@@ -71,7 +71,7 @@ export default function LoginPage() {
               SHS SCHEDULE MANAGER
             </h2>
             <p className="text-slate-400 text-xs mt-1 text-center font-medium max-w-xs">
-              Senior High School & Faculty Loading Portaldasds
+              Senior High School & Faculty Loading Portal
             </p>
             <div className="mt-2.5 flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-900 border border-slate-800">
               <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
